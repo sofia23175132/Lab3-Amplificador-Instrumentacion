@@ -1,0 +1,19 @@
+tabla,magnitud,valor,unidad,observacion
+1,R1a,9.06,kOhm,nominal 10 kOhm
+1,R1b,9.64,kOhm,nominal 10 kOhm
+1,Rg,0.965,kOhm,nominal 1 kOhm
+1,R2a,9.71,kOhm,nominal 10 kOhm
+1,R2b,9.80,kOhm,nominal 10 kOhm
+1,R3a,9.78,kOhm,nominal 10 kOhm
+1,R3b,9.23,kOhm,nominal 10 kOhm
+1,RD1,9.86,kOhm,nominal 10 kOhm
+1,RD2,97.7,Ohm,nominal 100 Ohm
+2,VOUT con V1 y V2 a GND,0.065,V DC,multimetro Fluke 179
+3,V1 (etapa B),0.92,Vpp,aplicada sin divisor
+3,VOUT (etapa B),17.2,Vpp,en fase con V1
+4,V1 = V2 (etapa C),1.00,Vpp,60 Hz
+4,VOUT (etapa C),38.8,mVpp,pico a pico; incluye ruido
+5,Ganancia diferencial teorica,19.86,-,[1+(R1a+R1b)/Rg] x promedio(R3a/R2a; R3b/R2b)
+5,Ganancia diferencial medida Ad,18.7,-,VOUT/V1 tabla 3
+5,Ganancia de modo comun Acm,0.0388,-,VOUT/V1 tabla 4
+5,CMRR,53.7,dB,20 log10(Ad/Acm); cota inferior
