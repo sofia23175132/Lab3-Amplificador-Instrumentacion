@@ -52,10 +52,8 @@ Los valores medidos se encuentran en [`datos/mediciones.csv`](datos/mediciones.c
 | Componente / equipo | Cantidad | Marca / modelo |
 |---|---|---|
 | Amplificador operacional cuádruple | 1 | TL084N (Texas Instruments) |
-| Resistencias de 10 kΩ | 7 | R1a, R1b, R2a, R2b, R3a, R3b, RD1 |
-| Resistencia de 1 kΩ | 1 | Rg |
-| Resistencia de 100 Ω | 1 | RD2 |
-| Capacitores cerámicos de 100 nF | 2 | Desacople de alimentación |
+| Resistencias de 10 kΩ, 1kΩ, 100Ω | varios | - |
+| Capacitores cerámicos de 100 nF | 2 |- |
 | Fuente de alimentación DC | 1 | BK Precision LPS305B-TC |
 | Osciloscopio con generador integrado | 1 | GW Instek GDS-2102A (salida GEN 1) |
 | Multímetro digital | 1 | Fluke 179 |
