@@ -1,3 +1,4 @@
 # Esquemático
 
-- `esquematico_multisim.png`: esquemático del amplificador de instrumentación elaborado en Multisim (TL084ACN, ±12 V).
+- `ESQUEMATICO_LAB_3_-_IB_III.ms14`: archivo fuente del esquemático en NI Multisim 14.
+- `esquematico_multisim.png`: imagen exportada del esquemático.
