@@ -1,3 +1,3 @@
 # Esquemático
 
-Subir aquí el archivo del esquemático elaborado en Multisim (.ms14 o la versión usada) y una imagen exportada (.png o .pdf).
+- `esquematico_multisim.png`: esquemático del amplificador de instrumentación elaborado en Multisim (TL084ACN, ±12 V).
